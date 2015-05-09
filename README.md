@@ -1,6 +1,6 @@
 # RFYLODScripts
 
-Endless runner made with Unity.
+Endless runner made with Unity. The game was programed in C#.
 
 Apple Store
 https://itunes.apple.com/us/app/run-for-your-life-or-die/id909400810?mt=8
